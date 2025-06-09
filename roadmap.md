@@ -22,6 +22,6 @@
 - Bridge to $BEET or FOAF infrastructure
 
 ### 🌍 Phase 5: Real Impact
-- GrowOperative integration
+- a real-world initiative focused on local food system resilience integration
 - Food system partnerships
 - Real-world tie-ins and merch drops

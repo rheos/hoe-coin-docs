@@ -1,6 +1,6 @@
 # Welcome to $HOE
 
-$HOE is a meme-driven, mission-backed token designed to raise funds for GrowOperative while cultivating a bold, irreverent crypto culture. This repo contains all core documentation related to the launch, mechanics, governance, and brand of the $HOE coin.
+$HOE is a meme-driven, mission-backed token designed to raise funds for a real-world initiative focused on local food system resilience while cultivating a bold, irreverent crypto culture. This repo contains all core documentation related to the launch, mechanics, governance, and brand of the $HOE coin.
 
 ---
 

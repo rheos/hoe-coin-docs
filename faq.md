@@ -2,7 +2,7 @@
 
 ### What is $HOE?
 
-A meme coin with a mission: raise funds for GrowOperative while building a community of meme-loving degens and community gardeners.
+A meme coin with a mission: raise funds for a real-world initiative focused on local food system resilience while building a community of meme-loving degens and community gardeners.
 
 ### Is this a real project or just for laughs?
 
@@ -20,7 +20,7 @@ Yes, but it’s community-based. Early meme activity and engagement will be rewa
 
 ### Where does the money go?
 
-- Trading fees help fund GrowOperative
+- Trading fees help fund a real-world initiative focused on local food system resilience
 - LP fees go back into the $HOE pool
 - No private team dumps — all allocations are transparent and vested
 
